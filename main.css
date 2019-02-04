@@ -1,0 +1,46 @@
+/************
+global
+*************/
+
+
+img {
+    max-width:100%;
+}
+h1 {
+    color: rgb(83, 78, 78);
+}
+
+.navbar-brand{
+    font-size:40px;
+}
+
+a {
+    color:white;
+    font-size: 30px;
+}
+
+/**************
+portfolio
+***************/
+
+#gallery {
+    margin: 0 5% 0 5%;
+    list-style: none;
+}
+
+#gallery li {
+     width:50%;
+
+     /**************
+     contact
+     ***************/
+
+     .contactfont { 
+
+         list-style-type:none
+         color:blue;
+         font size:30px;
+         
+     }
+
+}
